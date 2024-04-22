@@ -97,6 +97,8 @@ and click on the connect icon
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/119475702/20c79f2d-51d0-42a0-8be4-a530d29378d1)
 
+https://photos.app.goo.gl/uVRaia1CQEUC5iMF9
+
 ### Results: 
 
 Thus to pick and place a regular shape using two finger gripper on the conveyor belt.
